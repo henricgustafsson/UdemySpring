@@ -5,6 +5,7 @@ import java.util.Date;
 public class User {
 
 	private Integer id;
+	
 	public User(Integer id, String name, Date birthDate) {
 		super();
 		this.id = id;
